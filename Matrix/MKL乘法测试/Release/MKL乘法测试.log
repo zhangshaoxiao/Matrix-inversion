@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/4/8 14:50:20。
+     1>项目“G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试\MKL乘法测试.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\bin\intel64\icl.exe /c /Qm32 /Zi /nologo /W3 /O2 /Oi /Qipo /Qftz /D __INTEL_COMPILER=1600 /D _UNICODE /D UNICODE /EHsc /MD /GS /Gy /Qopenmp-offload- /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP "源.cpp"
+         源.cpp
+     1>源.cpp(5): error : cannot open source file "Eigen/Core"
+           #include <Eigen/Core>
+                                ^
+         
+         compilation aborted for 源.cpp (code 4)
+     1>已完成生成项目“G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试\MKL乘法测试.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.30

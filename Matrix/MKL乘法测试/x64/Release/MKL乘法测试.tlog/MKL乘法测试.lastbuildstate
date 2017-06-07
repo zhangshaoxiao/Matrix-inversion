@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=Intel C++ Compiler 16.0:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native64Bit
+Release|x64|G:\高斯消元法求逆矩阵\分块测试2\|

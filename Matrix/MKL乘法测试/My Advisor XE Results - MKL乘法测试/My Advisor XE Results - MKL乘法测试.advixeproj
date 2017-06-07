@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <connectionOption>localhost</connectionOption>
+ <rdmgr>
+  <timestamp type="u64_t">1491632318</timestamp>
+  <hostname>idea-PC</hostname>
+  <os>windows</os>
+  <product>Intel® Advisor XE 2016</product>
+  <buildNumber type="s32_t">423501</buildNumber>
+  <logicalCPUCount type="s32_t">4</logicalCPUCount>
+  <CPUFrequency type="s64_t">2600000000</CPUFrequency>
+ </rdmgr>
+ <contextValues>
+  <contextValue>
+   <id>emulatorByCtxKnob</id>
+   <value></value>
+  </contextValue>
+ </contextValues>
+ <All_Configurations-All_Platforms>
+  <per_group_workloads>
+   <release>release</release>
+   <tripcounts>tripcounts</tripcounts>
+  </per_group_workloads>
+  <searchDirs>
+   <searchCategory>
+    <category type="u8_t">1</category>
+   </searchCategory>
+   <searchCategory>
+    <category type="u8_t">2</category>
+   </searchCategory>
+   <searchCategory>
+    <category type="u8_t">3</category>
+   </searchCategory>
+   <searchCategory>
+    <category type="u8_t">4</category>
+   </searchCategory>
+  </searchDirs>
+  <excludeFiles type="bag"/>
+  <target_settings>
+   <selected_workload>
+    <localhost>release</localhost>
+   </selected_workload>
+   <result_dir>
+    <localhost>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试\My Advisor XE Results - MKL乘法测试</localhost>
+   </result_dir>
+   <result_pattern>
+    <localhost>r@@@{at}</localhost>
+   </result_pattern>
+   <workloads>
+    <localhost>
+     <attach-survey type="pointer" type_id="dasID_cctrl2::AttachWorkload" ptr_type="dasID_cctrl2::IWorkload">
+      <workload>
+       <targetName>attach-survey</targetName>
+       <use_app_dir_as_work_dir type="bool">false</use_app_dir_as_work_dir>
+       <attach.process_name>MKL乘法测试.exe</attach.process_name>
+       <attach.pid type="null"></attach.pid>
+       <result_directory.path>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试\My Advisor XE Results - MKL乘法测试\r@@@{at}</result_directory.path>
+       <search_directories>
+        <item>
+         <value>sym=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug</value>
+        </item>
+        <item>
+         <value>sym=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试</value>
+        </item>
+        <item>
+         <value>sym=srv*C:\Users\lenovo\AppData\Local\Temp\SymbolCache</value>
+        </item>
+        <item>
+         <value>bin=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug</value>
+        </item>
+        <item>
+         <value>bin=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\bin\intel64</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\VC\bin\amd64_x86</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\VC\bin\amd64</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\Tools\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\tools</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\ide</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\HTML Help Workshop</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\bin\x64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6 Tools\x64</value>
+        </item>
+        <item>
+         <value>bin=C:\Windows\SysWow64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\Trace Analyzer and Collector\9.1.1.019\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016.0.110\windows\mpi\intel64\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler</value>
+        </item>
+        <item>
+         <value>bin=C:\ProgramData\Oracle\Java\javapath</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\iCLS Client</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\iCLS Client</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\system32</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\System32\Wbem</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\System32\WindowsPowerShell\v1.0</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\Intel(R) Management Engine Components\DAL</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\Intel(R) Management Engine Components\IPT</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\100\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\100\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=D:\mysql\mysql\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\quartusii 2\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common</value>
+        </item>
+        <item>
+         <value>bin=C:\Windows\system32\config\systemprofile\.dnx\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft DNX\Dnvm</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\110\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\110\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\Trace Analyzer and Collector\9.1.1.019\dll</value>
+        </item>
+        <item>
+         <value>bin=C:\Users\lenovo\.dnx\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\Tools\WinNT</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\MSDev98\Bin</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\Tools</value>
+        </item>
+        <item>
+         <value>bin=D:\VC98\bin</value>
+        </item>
+       </search_directories>
+       <context>
+        <contextValue>
+         <id>dataLimit</id>
+         <value type="s32_t">500</value>
+        </contextValue>
+        <contextValue>
+         <id>followChild</id>
+         <value type="bool">true</value>
+        </contextValue>
+        <contextValue>
+         <id>followChildStrategy</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>interval</id>
+         <value type="s32_t">10</value>
+        </contextValue>
+        <contextValue>
+         <id>mrteMode</id>
+         <value>auto</value>
+        </contextValue>
+        <contextValue>
+         <id>resumeAfter</id>
+         <value type="s32_t">0</value>
+        </contextValue>
+        <contextValue>
+         <id>targetDurationType</id>
+         <value>short</value>
+        </contextValue>
+        <contextValue>
+         <id>targetType</id>
+         <value>attach-survey</value>
+        </contextValue>
+       </context>
+      </workload>
+     </attach-survey>
+     <attach-tripcounts type="pointer" type_id="dasID_cctrl2::AttachWorkload" ptr_type="dasID_cctrl2::IWorkload">
+      <workload>
+       <targetName>attach-tripcounts</targetName>
+       <use_app_dir_as_work_dir type="bool">false</use_app_dir_as_work_dir>
+       <attach.process_name>MKL乘法测试.exe</attach.process_name>
+       <attach.pid type="null"></attach.pid>
+       <result_directory.path>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试\My Advisor XE Results - MKL乘法测试\r@@@{at}</result_directory.path>
+       <search_directories>
+        <item>
+         <value>sym=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug</value>
+        </item>
+        <item>
+         <value>sym=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试</value>
+        </item>
+        <item>
+         <value>sym=srv*C:\Users\lenovo\AppData\Local\Temp\SymbolCache</value>
+        </item>
+        <item>
+         <value>bin=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug</value>
+        </item>
+        <item>
+         <value>bin=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\bin\intel64</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\VC\bin\amd64_x86</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\VC\bin\amd64</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\Tools\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\tools</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\ide</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\HTML Help Workshop</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\bin\x64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6 Tools\x64</value>
+        </item>
+        <item>
+         <value>bin=C:\Windows\SysWow64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\Trace Analyzer and Collector\9.1.1.019\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016.0.110\windows\mpi\intel64\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler</value>
+        </item>
+        <item>
+         <value>bin=C:\ProgramData\Oracle\Java\javapath</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\iCLS Client</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\iCLS Client</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\system32</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\System32\Wbem</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\System32\WindowsPowerShell\v1.0</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\Intel(R) Management Engine Components\DAL</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\Intel(R) Management Engine Components\IPT</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\100\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\100\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=D:\mysql\mysql\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\quartusii 2\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common</value>
+        </item>
+        <item>
+         <value>bin=C:\Windows\system32\config\systemprofile\.dnx\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft DNX\Dnvm</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\110\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\110\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\Trace Analyzer and Collector\9.1.1.019\dll</value>
+        </item>
+        <item>
+         <value>bin=C:\Users\lenovo\.dnx\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\Tools\WinNT</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\MSDev98\Bin</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\Tools</value>
+        </item>
+        <item>
+         <value>bin=D:\VC98\bin</value>
+        </item>
+       </search_directories>
+       <context>
+        <contextValue>
+         <id>mrteMode</id>
+         <value>auto</value>
+        </contextValue>
+        <contextValue>
+         <id>targetType</id>
+         <value>attach-tripcounts</value>
+        </contextValue>
+       </context>
+      </workload>
+     </attach-tripcounts>
+     <debug type="pointer" type_id="dasID_cctrl2::ApplicationWorkload" ptr_type="dasID_cctrl2::IWorkload">
+      <workload>
+       <targetName>debug</targetName>
+       <launch_app.app_to_launch>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug\MKL乘法测试.exe</launch_app.app_to_launch>
+       <launch_app.working_folder>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试</launch_app.working_folder>
+       <launch_app.environment_prepend>PATH=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\ia32\compiler;</launch_app.environment_prepend>
+       <use_app_dir_as_work_dir type="bool">false</use_app_dir_as_work_dir>
+       <result_directory.path>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试\My Advisor XE Results - MKL乘法测试\r@@@{at}</result_directory.path>
+       <search_directories>
+        <item>
+         <value>sym=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug</value>
+        </item>
+        <item>
+         <value>sym=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试</value>
+        </item>
+        <item>
+         <value>sym=srv*C:\Users\lenovo\AppData\Local\Temp\SymbolCache</value>
+        </item>
+        <item>
+         <value>bin=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug</value>
+        </item>
+        <item>
+         <value>bin=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\bin\intel64</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\VC\bin\amd64_x86</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\VC\bin\amd64</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\Tools\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\tools</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\ide</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\HTML Help Workshop</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\bin\x64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6 Tools\x64</value>
+        </item>
+        <item>
+         <value>bin=C:\Windows\SysWow64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\Trace Analyzer and Collector\9.1.1.019\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016.0.110\windows\mpi\intel64\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler</value>
+        </item>
+        <item>
+         <value>bin=C:\ProgramData\Oracle\Java\javapath</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\iCLS Client</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\iCLS Client</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\system32</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\System32\Wbem</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\System32\WindowsPowerShell\v1.0</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\Intel(R) Management Engine Components\DAL</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\Intel(R) Management Engine Components\IPT</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\100\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\100\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=D:\mysql\mysql\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\quartusii 2\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common</value>
+        </item>
+        <item>
+         <value>bin=C:\Windows\system32\config\systemprofile\.dnx\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft DNX\Dnvm</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\110\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\110\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\Trace Analyzer and Collector\9.1.1.019\dll</value>
+        </item>
+        <item>
+         <value>bin=C:\Users\lenovo\.dnx\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\Tools\WinNT</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\MSDev98\Bin</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\Tools</value>
+        </item>
+        <item>
+         <value>bin=D:\VC98\bin</value>
+        </item>
+       </search_directories>
+       <context>
+        <contextValue>
+         <id>analysis_mode</id>
+         <value>default</value>
+        </contextValue>
+        <contextValue>
+         <id>mark-up-list</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>mrteMode</id>
+         <value>auto</value>
+        </contextValue>
+        <contextValue>
+         <id>process_for_analysis</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>stackOffset</id>
+         <value type="bool">false</value>
+        </contextValue>
+        <contextValue>
+         <id>suppressions</id>
+         <value>none</value>
+        </contextValue>
+        <contextValue>
+         <id>targetType</id>
+         <value>debug</value>
+        </contextValue>
+        <contextValue>
+         <id>vsdbg_support</id>
+         <value>off</value>
+        </contextValue>
+       </context>
+      </workload>
+     </debug>
+     <map type="pointer" type_id="dasID_cctrl2::ApplicationWorkload" ptr_type="dasID_cctrl2::IWorkload">
+      <workload>
+       <targetName>map</targetName>
+       <launch_app.app_to_launch>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug\MKL乘法测试.exe</launch_app.app_to_launch>
+       <launch_app.working_folder>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试</launch_app.working_folder>
+       <launch_app.environment_prepend>PATH=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\ia32\compiler;</launch_app.environment_prepend>
+       <use_app_dir_as_work_dir type="bool">false</use_app_dir_as_work_dir>
+       <result_directory.path>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试\My Advisor XE Results - MKL乘法测试\r@@@{at}</result_directory.path>
+       <search_directories>
+        <item>
+         <value>sym=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug</value>
+        </item>
+        <item>
+         <value>sym=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试</value>
+        </item>
+        <item>
+         <value>sym=srv*C:\Users\lenovo\AppData\Local\Temp\SymbolCache</value>
+        </item>
+        <item>
+         <value>bin=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug</value>
+        </item>
+        <item>
+         <value>bin=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\bin\intel64</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\VC\bin\amd64_x86</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\VC\bin\amd64</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\Tools\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\tools</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\ide</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\HTML Help Workshop</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\bin\x64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6 Tools\x64</value>
+        </item>
+        <item>
+         <value>bin=C:\Windows\SysWow64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\Trace Analyzer and Collector\9.1.1.019\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016.0.110\windows\mpi\intel64\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler</value>
+        </item>
+        <item>
+         <value>bin=C:\ProgramData\Oracle\Java\javapath</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\iCLS Client</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\iCLS Client</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\system32</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\System32\Wbem</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\System32\WindowsPowerShell\v1.0</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\Intel(R) Management Engine Components\DAL</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\Intel(R) Management Engine Components\IPT</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\100\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\100\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=D:\mysql\mysql\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\quartusii 2\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common</value>
+        </item>
+        <item>
+         <value>bin=C:\Windows\system32\config\systemprofile\.dnx\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft DNX\Dnvm</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\110\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\110\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\Trace Analyzer and Collector\9.1.1.019\dll</value>
+        </item>
+        <item>
+         <value>bin=C:\Users\lenovo\.dnx\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\Tools\WinNT</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\MSDev98\Bin</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\Tools</value>
+        </item>
+        <item>
+         <value>bin=D:\VC98\bin</value>
+        </item>
+       </search_directories>
+       <context>
+        <contextValue>
+         <id>analysis_mode</id>
+         <value>default</value>
+        </contextValue>
+        <contextValue>
+         <id>mark-up-list</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>mrteMode</id>
+         <value>auto</value>
+        </contextValue>
+        <contextValue>
+         <id>process_for_analysis</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>recordStackFrame</id>
+         <value type="bool">false</value>
+        </contextValue>
+        <contextValue>
+         <id>suppressions</id>
+         <value>none</value>
+        </contextValue>
+        <contextValue>
+         <id>targetType</id>
+         <value>map</value>
+        </contextValue>
+        <contextValue>
+         <id>vsdbg_support</id>
+         <value>off</value>
+        </contextValue>
+       </context>
+      </workload>
+     </map>
+     <release type="pointer" type_id="dasID_cctrl2::ApplicationWorkload" ptr_type="dasID_cctrl2::IWorkload">
+      <workload>
+       <targetName>release</targetName>
+       <launch_app.inherit_sys_environment type="bool">true</launch_app.inherit_sys_environment>
+       <launch.userapppath>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug\MKL乘法测试.exe</launch.userapppath>
+       <launch_app.app_parameters></launch_app.app_parameters>
+       <launch.userappworkdir>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试</launch.userappworkdir>
+       <launch_app.app_to_launch>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug\MKL乘法测试.exe</launch_app.app_to_launch>
+       <launch_app.working_folder>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试</launch_app.working_folder>
+       <launch_app.environment_prepend>PATH=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\ia32\compiler;</launch_app.environment_prepend>
+       <use_app_dir_as_work_dir type="bool">false</use_app_dir_as_work_dir>
+       <result_directory.path>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试\My Advisor XE Results - MKL乘法测试\r@@@{at}</result_directory.path>
+       <search_directories>
+        <item>
+         <value>sym=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug</value>
+        </item>
+        <item>
+         <value>sym=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试</value>
+        </item>
+        <item>
+         <value>sym=srv*C:\Users\lenovo\AppData\Local\Temp\SymbolCache</value>
+        </item>
+        <item>
+         <value>bin=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug</value>
+        </item>
+        <item>
+         <value>bin=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\bin\intel64</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\VC\bin\amd64_x86</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\VC\bin\amd64</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\Tools\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\tools</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\ide</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\HTML Help Workshop</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\bin\x64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6 Tools\x64</value>
+        </item>
+        <item>
+         <value>bin=C:\Windows\SysWow64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\Trace Analyzer and Collector\9.1.1.019\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016.0.110\windows\mpi\intel64\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler</value>
+        </item>
+        <item>
+         <value>bin=C:\ProgramData\Oracle\Java\javapath</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\iCLS Client</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\iCLS Client</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\system32</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\System32\Wbem</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\System32\WindowsPowerShell\v1.0</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\Intel(R) Management Engine Components\DAL</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\Intel(R) Management Engine Components\IPT</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\100\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\100\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=D:\mysql\mysql\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\quartusii 2\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common</value>
+        </item>
+        <item>
+         <value>bin=C:\Windows\system32\config\systemprofile\.dnx\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft DNX\Dnvm</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\110\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\110\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\Trace Analyzer and Collector\9.1.1.019\dll</value>
+        </item>
+        <item>
+         <value>bin=C:\Users\lenovo\.dnx\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\Tools\WinNT</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\MSDev98\Bin</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\Tools</value>
+        </item>
+        <item>
+         <value>bin=D:\VC98\bin</value>
+        </item>
+       </search_directories>
+       <context>
+        <contextValue>
+         <id>analysis_mode</id>
+         <value>default</value>
+        </contextValue>
+        <contextValue>
+         <id>dataLimit</id>
+         <value type="s32_t">100</value>
+        </contextValue>
+        <contextValue>
+         <id>followChild</id>
+         <value type="bool">true</value>
+        </contextValue>
+        <contextValue>
+         <id>followChildStrategy</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>interval</id>
+         <value type="s32_t">10</value>
+        </contextValue>
+        <contextValue>
+         <id>mrteMode</id>
+         <value>auto</value>
+        </contextValue>
+        <contextValue>
+         <id>process_for_analysis</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>resumeAfter</id>
+         <value type="s32_t">0</value>
+        </contextValue>
+        <contextValue>
+         <id>targetDurationType</id>
+         <value>short</value>
+        </contextValue>
+        <contextValue>
+         <id>targetType</id>
+         <value>release</value>
+        </contextValue>
+        <contextValue>
+         <id>vsdbg_support</id>
+         <value>off</value>
+        </contextValue>
+       </context>
+      </workload>
+     </release>
+     <tripcounts type="pointer" type_id="dasID_cctrl2::ApplicationWorkload" ptr_type="dasID_cctrl2::IWorkload">
+      <workload>
+       <targetName>tripcounts</targetName>
+       <launch_app.inherit_sys_environment type="bool">true</launch_app.inherit_sys_environment>
+       <launch.userapppath>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug\MKL乘法测试.exe</launch.userapppath>
+       <launch_app.app_parameters></launch_app.app_parameters>
+       <launch.userappworkdir>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试</launch.userappworkdir>
+       <launch_app.app_to_launch>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug\MKL乘法测试.exe</launch_app.app_to_launch>
+       <launch_app.working_folder>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试</launch_app.working_folder>
+       <launch_app.environment_prepend>PATH=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\ia32\compiler;</launch_app.environment_prepend>
+       <use_app_dir_as_work_dir type="bool">false</use_app_dir_as_work_dir>
+       <result_directory.path>G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\MKL乘法测试\My Advisor XE Results - MKL乘法测试\r@@@{at}</result_directory.path>
+       <search_directories>
+        <item>
+         <value>sym=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug</value>
+        </item>
+        <item>
+         <value>sym=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试</value>
+        </item>
+        <item>
+         <value>sym=srv*C:\Users\lenovo\AppData\Local\Temp\SymbolCache</value>
+        </item>
+        <item>
+         <value>bin=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试\Debug</value>
+        </item>
+        <item>
+         <value>bin=G:\高斯消元法求逆矩阵\辅助性代码\MKL乘法测试</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\bin\intel64</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\VC\bin\amd64_x86</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\VC\bin\amd64</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\Tools\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\tools</value>
+        </item>
+        <item>
+         <value>bin=D:\vs2015\Common7\ide</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\HTML Help Workshop</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\bin\x64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6 Tools\x64</value>
+        </item>
+        <item>
+         <value>bin=C:\Windows\SysWow64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\Trace Analyzer and Collector\9.1.1.019\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016.0.110\windows\mpi\intel64\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler</value>
+        </item>
+        <item>
+         <value>bin=C:\ProgramData\Oracle\Java\javapath</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\iCLS Client</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\iCLS Client</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\system32</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\System32\Wbem</value>
+        </item>
+        <item>
+         <value>bin=C:\WINDOWS\System32\WindowsPowerShell\v1.0</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\Intel(R) Management Engine Components\DAL</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Intel\Intel(R) Management Engine Components\IPT</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\100\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\100\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=D:\mysql\mysql\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\quartusii 2\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common</value>
+        </item>
+        <item>
+         <value>bin=C:\Windows\system32\config\systemprofile\.dnx\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft DNX\Dnvm</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\110\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\110\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\Trace Analyzer and Collector\9.1.1.019\dll</value>
+        </item>
+        <item>
+         <value>bin=C:\Users\lenovo\.dnx\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\Tools\WinNT</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\MSDev98\Bin</value>
+        </item>
+        <item>
+         <value>bin=D:\计算机学习教程\Tools</value>
+        </item>
+        <item>
+         <value>bin=D:\VC98\bin</value>
+        </item>
+       </search_directories>
+       <context>
+        <contextValue>
+         <id>analysis_mode</id>
+         <value>default</value>
+        </contextValue>
+        <contextValue>
+         <id>followChild</id>
+         <value type="bool">true</value>
+        </contextValue>
+        <contextValue>
+         <id>followChildStrategy</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>mrteMode</id>
+         <value>auto</value>
+        </contextValue>
+        <contextValue>
+         <id>process_for_analysis</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>targetType</id>
+         <value>tripcounts</value>
+        </contextValue>
+       </context>
+      </workload>
+     </tripcounts>
+    </localhost>
+   </workloads>
+  </target_settings>
+ </All_Configurations-All_Platforms>
+</root>
